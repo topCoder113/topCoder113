@@ -21,7 +21,7 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 
 <br />
 
-<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/ai-tool-tiles.png" width="384" height="48" alt="Anthropic, Google Gemini, LangChain, Probot, Dialogflow, n8n, and Postman" />
+<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/skills-row.png" width="832" height="48" alt="Figma, Angular, Nuxt, Express, Django, OpenAI, Claude, OpenCV, Postman, GraphQL, Prisma, Redis, Supabase, Git, and GitHub" />
 
 </div>
 
