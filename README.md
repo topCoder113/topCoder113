@@ -21,19 +21,7 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 
 <br />
 
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=anthropic&logoColor=white&color=D97757" height="48" alt="AI integration — Anthropic" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=googlegemini&logoColor=white&color=4285F4" height="48" alt="LLMs and generative AI — Google Gemini" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=langchain&logoColor=white&color=0B6E4F" height="48" alt="RAG — LangChain" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=probot&logoColor=white&color=4F46E5" height="48" alt="AI agents — Probot" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=dialogflow&logoColor=white&color=0F9D58" height="48" alt="Chatbots — Dialogflow" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=n8n&logoColor=white&color=EA4B71" height="48" alt="Workflow automation — n8n" />
-&nbsp;
-<img src="https://img.shields.io/badge/-%20?style=flat&logo=postman&logoColor=white&color=FF6C37" height="48" alt="API integration — Postman" />
+<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/ai-tool-tiles.png" width="384" height="48" alt="Anthropic, Google Gemini, LangChain, Probot, Dialogflow, n8n, and Postman" />
 
 </div>
 
