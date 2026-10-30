@@ -56,7 +56,7 @@
 
 <br />
 
-## <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> GitHub at a glance
+## <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2306b6d4" width="24" height="24" alt="" style="vertical-align: middle;" /> GitHub at a glance
 
 <div align="center">
 
@@ -65,11 +65,9 @@
 
 <br />
 
-<a href="https://github.com/topCodersLab">
-  <img src="https://raw.githubusercontent.com/topCoder113/topCoder113/output/contribution-grid.svg" width="100%" alt="TopCodersLab's GitHub contribution calendar with green tiles" />
-</a>
-
-<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake traversing TopCodersLab's GitHub contribution grid" />
+<p align="left">
+  <img src="assets/profile-analysis.svg" width="100%" alt="Public profile analysis: 3 repositories, one portfolio with published source, and web UI as the clearest demonstrated focus. The portfolio language mix is 50.4% CSS, 39.1% HTML, 10.2% TypeScript, and 0.3% JavaScript. The other two repositories have no published source or README to assess." />
+</p>
 
 </div>
 
