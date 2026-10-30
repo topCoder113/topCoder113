@@ -17,11 +17,38 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,fastapi,nodejs,postgres,mongodb,docker,aws,vercel,githubactions&theme=dark" alt="Python, TypeScript, JavaScript, Next.js, React, Tailwind CSS, FastAPI, Node.js, PostgreSQL, MongoDB, Docker, AWS, Vercel, GitHub Actions" />
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a>&nbsp;
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>&nbsp;
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular" /></a>&nbsp;
+<a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="48" height="48" alt="Nuxt" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" /></a>&nbsp;
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django" /></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/skills-row.png" width="832" height="48" alt="Figma, Angular, Nuxt, Express, Django, OpenAI, Claude, OpenCV, Postman, GraphQL, Prisma, Redis, Supabase, Git, and GitHub" />
+<a href="https://openai.com/"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2310A37F" width="48" height="48" alt="OpenAI" /></a>&nbsp;
+<a href="https://claude.ai/"><img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="48" height="48" alt="Claude" /></a>&nbsp;
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" /></a>&nbsp;
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" /></a>&nbsp;
+<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL" /></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" height="48" alt="Prisma" /></a>&nbsp;
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" /></a>&nbsp;
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>&nbsp;
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" /></a>&nbsp;
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" /></a>&nbsp;
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" /></a>
 
 </div>
 
