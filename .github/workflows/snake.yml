@@ -28,14 +28,20 @@ jobs:
 
       - name: Generate green contribution calendar
         run: |
+          mkdir -p dist
           curl --fail --silent --show-error --location \
+            --retry 3 \
+            --retry-all-errors \
+            --retry-delay 2 \
             https://ghchart.rshah.org/39D353/topCodersLab \
-            --output dist/contribution-grid.svg
-          if ! grep -q 'fill:#EEEEEE' dist/contribution-grid.svg; then
+            --output "$RUNNER_TEMP/contribution-grid.svg"
+          if ! grep -q 'fill:#EEEEEE' "$RUNNER_TEMP/contribution-grid.svg"; then
             echo "Expected inactive contribution tile color was not found." >&2
             exit 1
           fi
-          sed -i 's/fill:#EEEEEE/fill:#0e4429/g' dist/contribution-grid.svg
+          sed 's/fill:#EEEEEE/fill:#0e4429/g' \
+            "$RUNNER_TEMP/contribution-grid.svg" \
+            > dist/contribution-grid.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

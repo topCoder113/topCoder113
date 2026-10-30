@@ -11,7 +11,9 @@
 
 ## <img src="https://api.iconify.design/solar/case-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> What I do
 
-I build practical end-to-end products—from modern web interfaces and Python APIs to LLM integrations and automated workflows.
+<p style = "font-size: 20px">I build practical end-to-end products—from modern web interfaces and Python APIs to LLM integrations and automated workflows.</p>
+
+<br />
 
 ## <img src="https://api.iconify.design/solar/code-square-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> Tech stack
 
@@ -51,6 +53,8 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" /></a>
 
 </div>
+
+<br />
 
 ## <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> GitHub at a glance
 
