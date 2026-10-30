@@ -65,8 +65,8 @@
 
 <br />
 
-<p align="left">
-  <img src="assets/profile-analysis.svg" width="100%" alt="Public profile analysis: 3 repositories, one portfolio with published source, and web UI as the clearest demonstrated focus. The portfolio language mix is 50.4% CSS, 39.1% HTML, 10.2% TypeScript, and 0.3% JavaScript. The other two repositories have no published source or README to assess." />
+<p align="center">
+  <img src="assets/profile-analysis.svg" width="720" alt="Public profile analysis: 3 repositories, one portfolio with published source, and web UI as the clearest demonstrated focus. The portfolio language mix is 50.4% CSS, 39.1% HTML, 10.2% TypeScript, and 0.3% JavaScript. The other two repositories have no published source or README to assess." />
 </p>
 
 </div>
