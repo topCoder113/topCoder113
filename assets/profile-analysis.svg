@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" fill="none">
-  <rect width="960" height="400" rx="24" fill="#0D1117"/>
-  <rect x="1" y="1" width="958" height="398" rx="23" stroke="#30363D" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="350" viewBox="0 0 960 350" fill="none">
+  <rect width="960" height="350" rx="24" fill="#0D1117"/>
+  <rect x="1" y="1" width="958" height="348" rx="23" stroke="#30363D" stroke-width="2"/>
 
   <rect x="32" y="27" width="48" height="48" rx="12" fill="#238636"/>
   <path d="M53 39L44 51L53 63M59 39L68 51L59 63" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
@@ -22,39 +22,39 @@
   <text x="646" y="137" fill="#D2A8FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">WEB UI</text>
   <text x="646" y="159" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">CLEAREST DEMONSTRATED FOCUS</text>
 
-  <text x="40" y="222" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Portfolio language mix</text>
-  <text x="920" y="222" text-anchor="end" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12">Based on GitHub's published language totals</text>
+  <text x="40" y="202" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Portfolio language mix</text>
+  <text x="920" y="202" text-anchor="end" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12">Based on GitHub's published language totals</text>
 
-  <rect x="40" y="240" width="444" height="18" rx="9" fill="#3178C6"/>
-  <path d="M484 240H828V258H484Z" fill="#E34F26"/>
-  <path d="M828 240H918V258H828Z" fill="#F1E05A"/>
-  <path d="M918 240H920V258H918Z" fill="#563D7C"/>
+  <rect x="40" y="220" width="444" height="18" rx="9" fill="#3178C6"/>
+  <path d="M484 220H828V238H484Z" fill="#E34F26"/>
+  <path d="M828 220H918V238H828Z" fill="#F1E05A"/>
+  <path d="M918 220H920V238H918Z" fill="#563D7C"/>
 
-  <circle cx="48" cy="286" r="5" fill="#3178C6"/>
-  <text x="62" y="291" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">CSS</text>
-  <text x="112" y="291" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">50.4%</text>
+  <circle cx="48" cy="266" r="5" fill="#3178C6"/>
+  <text x="62" y="271" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">CSS</text>
+  <text x="112" y="271" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">50.4%</text>
 
-  <circle cx="195" cy="286" r="5" fill="#E34F26"/>
-  <text x="209" y="291" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">HTML</text>
-  <text x="263" y="291" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">39.1%</text>
+  <circle cx="195" cy="266" r="5" fill="#E34F26"/>
+  <text x="209" y="271" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">HTML</text>
+  <text x="263" y="271" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">39.1%</text>
 
-  <circle cx="348" cy="286" r="5" fill="#F1E05A"/>
-  <text x="362" y="291" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">TypeScript</text>
-  <text x="441" y="291" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">10.2%</text>
+  <circle cx="348" cy="266" r="5" fill="#F1E05A"/>
+  <text x="362" y="271" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">TypeScript</text>
+  <text x="441" y="271" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">10.2%</text>
 
-  <circle cx="522" cy="286" r="5" fill="#563D7C"/>
-  <text x="536" y="291" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">JavaScript</text>
-  <text x="617" y="291" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.3%</text>
+  <circle cx="522" cy="266" r="5" fill="#563D7C"/>
+  <text x="536" y="271" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="13">JavaScript</text>
+  <text x="617" y="271" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.3%</text>
 
-  <text x="40" y="337" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Portfolio stack</text>
-  <rect x="150" y="319" width="83" height="28" rx="14" fill="#1F2937"/>
-  <text x="191.5" y="338" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Tailwind CSS 4</text>
-  <rect x="243" y="319" width="49" height="28" rx="14" fill="#1F2937"/>
-  <text x="267.5" y="338" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Vite</text>
-  <rect x="302" y="319" width="114" height="28" rx="14" fill="#1F2937"/>
-  <text x="359" y="338" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Semantic HTML</text>
-  <path d="M44 364V372C44 376 48 380 52 380H59M44 372C44 368 48 364 52 364H59" stroke="#3FB950" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="61" cy="364" r="3" fill="#3FB950"/>
-  <circle cx="61" cy="380" r="3" fill="#3FB950"/>
-  <text x="74" y="376" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12">The other two public repositories have no published source or README to assess. Public data only.</text>
+  <text x="40" y="297" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Portfolio stack</text>
+  <rect x="150" y="279" width="83" height="28" rx="14" fill="#1F2937"/>
+  <text x="191.5" y="298" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Tailwind CSS 4</text>
+  <rect x="243" y="279" width="49" height="28" rx="14" fill="#1F2937"/>
+  <text x="267.5" y="298" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Vite</text>
+  <rect x="302" y="279" width="114" height="28" rx="14" fill="#1F2937"/>
+  <text x="359" y="298" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Semantic HTML</text>
+  <path d="M44 324V332C44 336 48 340 52 340H59M44 332C44 328 48 324 52 324H59" stroke="#3FB950" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="61" cy="324" r="3" fill="#3FB950"/>
+  <circle cx="61" cy="340" r="3" fill="#3FB950"/>
+  <text x="74" y="336" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12">The other two public repositories have no published source or README to assess. Public data only.</text>
 </svg>
