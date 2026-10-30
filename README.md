@@ -1,279 +1,65 @@
-::: {align="center"}
-```{=html}
-<!-- Replace this banner URL with your own custom banner whenever you like. -->
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:7C3AED&height=220&section=header&text=TOPCODERSLAB&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=PYTHON%20AI%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=58&descColor=67E8F9" width="100%" alt="TopCodersLab profile banner" />`{=html}
+<div align="center">
 
-`<a href="https://github.com/topCodersLab">`{=html}
-`<a href="https://github.com/topCodersLab">`{=html}`<img src="https://img.shields.io/badge/GitHub-topCodersLab-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />`{=html}`</a>`{=html}
-`<img src="https://komarev.com/ghpvc/?username=topCodersLab&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
-`<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0891B2?style=for-the-badge" alt="AI Engineering focus" />`{=html}
-```{=html}
-</p>
-```
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:0891B2&height=210&section=header&text=James Carter&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20AI%20ENGINEER&descSize=16&descAlignY=60&descColor=BAE6FD" width="100%" alt="James Carter — Full-Stack AI Engineer" />
 
-------------------------------------------------------------------------
+### Building AI-powered apps, SaaS products & automations
 
-## `> whoami`
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topCodersLab)
+![Profile views](https://komarev.com/ghpvc/?username=topCodersLab&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
 
-I'm **TopCodersLab** --- a Python-focused AI engineer interested in
-building practical, reliable software with modern AI.
+</div>
 
-I enjoy working across the AI application stack: from backend APIs and
-data workflows to LLM-powered features and automation.
+## <img src="https://api.iconify.design/solar/case-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> What I do
 
--   🐍 **Core language:** Python
--   🧠 **AI interests:** LLM applications, RAG, AI agents, and model/API
-    integration
--   ⚙️ **Backend:** FastAPI, REST APIs, databases, and asynchronous
-    workflows
--   🔗 **Automation:** Webhooks, integrations, and workflow automation
--   🚀 **Current direction:** Building useful AI-powered products and
-    production-minded systems
+I build practical end-to-end products—from modern web interfaces and Python APIs to LLM integrations and automated workflows.
 
-> I value clear architecture, maintainable code, useful documentation,
-> and software that solves real problems.
+## <img src="https://api.iconify.design/solar/code-square-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> Tech stack
 
-------------------------------------------------------------------------
+<div align="center">
 
-## `> technology_stack`
+<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,fastapi,nodejs,postgres,mongodb,docker,aws,vercel,githubactions&theme=dark" alt="Python, TypeScript, JavaScript, Next.js, React, Tailwind CSS, FastAPI, Node.js, PostgreSQL, MongoDB, Docker, AWS, Vercel, GitHub Actions" />
 
-### Languages & backend
+<br />
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript,javascript&theme=dark" alt="Languages and backend technologies" />`{=html}
-```{=html}
-</p>
-```
-### AI & data
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="LLMs" />`{=html}
-`<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="RAG" />`{=html}
-`<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=67E8F9" alt="AI agents" />`{=html}
-`<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Prompt engineering" />`{=html}
-`<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="Automation" />`{=html}
-```{=html}
-</p>
-```
-### Databases, tools & infrastructure
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,docker,linux,vscode&theme=dark" alt="Databases and developer tools" />`{=html}
-```{=html}
-</p>
-```
-### Frontend & product development
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies" />`{=html}
-```{=html}
-</p>
-```
-*Keep this stack accurate: remove technologies you haven't used in a
-real project, and add tools as you gain practical experience.*
-
-------------------------------------------------------------------------
-
-## `> featured_projects`
-
-A few projects that demonstrate what I build. Replace these placeholders
-with your real repositories and concise project descriptions.
-
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🤖 AI Assistant / RAG Application
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-LLM-powered application that retrieves relevant information from a
-knowledge base and generates grounded responses.
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<b>`{=html}Focus:`</b>`{=html} Python · FastAPI · RAG · Vector Search
-```{=html}
-</p>
-```
-`<a href="https://github.com/topCodersLab">`{=html}View repositories
-→`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-⚡ AI Workflow Automation
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Automation workflow connecting APIs and business tools to reduce
-repetitive tasks and improve process consistency.
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<b>`{=html}Focus:`</b>`{=html} Python · APIs · Webhooks · Automation
-```{=html}
-</p>
-```
-`<a href="https://github.com/topCodersLab">`{=html}View repositories
-→`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🧩 Intelligent API Backend
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Backend service designed around clear API contracts, data validation,
-error handling, and maintainable architecture.
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<b>`{=html}Focus:`</b>`{=html} Python · FastAPI · PostgreSQL · Docker
-```{=html}
-</p>
-```
-`<a href="https://github.com/topCodersLab">`{=html}View repositories
-→`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🕸️ Full-Stack AI Product
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Web application combining a modern user experience with Python services
-and AI-powered functionality.
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<b>`{=html}Focus:`</b>`{=html} Next.js · TypeScript · Python · LLM APIs
-```{=html}
-</p>
-```
-`<a href="https://github.com/topCodersLab">`{=html}View repositories
-→`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center" bgcolor="#D97757" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="32" height="32" alt="AI integration — Anthropic" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#4285F4" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="32" height="32" alt="LLMs and generative AI — Google Gemini" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#0B6E4F" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="32" height="32" alt="RAG — LangChain" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#4F46E5" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/probot/FFFFFF" width="32" height="32" alt="AI agents — Probot" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#0F9D58" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/dialogflow/FFFFFF" width="32" height="32" alt="Chatbots — Dialogflow" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#EA4B71" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/n8n/FFFFFF" width="32" height="32" alt="Workflow automation — n8n" /></td>
+    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
+    <td align="center" bgcolor="#FF6C37" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/postman/FFFFFF" width="32" height="32" alt="API integration — Postman" /></td>
+  </tr>
 </table>
-```
 
-------------------------------------------------------------------------
+</div>
 
-## `> github_analytics`
+## <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2306b6d4" width="28" height="28" alt="" style="vertical-align: middle;" /> GitHub at a glance
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=topCodersLab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topCodersLab&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />`{=html}
+<div align="center">
 
-`<img width="70%" src="https://streak-stats.demolab.com?user=topCodersLab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9" alt="GitHub contribution streak" />`{=html}
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=topCodersLab&theme=github_dark" alt="GitHub contribution statistics" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=topCodersLab&theme=github_dark" alt="Most used languages by commit" />
 
-`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=topCodersLab&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
-:::
+<br />
 
-------------------------------------------------------------------------
+<a href="https://github.com/topCodersLab">
+  <img src="https://ghchart.rshah.org/0891B2/topCodersLab" width="100%" alt="TopCodersLab's GitHub contribution calendar" />
+</a>
 
-## `> contribution_snake`
+</div>
 
-::: {align="center"}
-```{=html}
-<!-- This animation is generated by the GitHub Actions workflow in .github/workflows/snake.yml. -->
-```
-`<img src="https://raw.githubusercontent.com/topCodersLab/topCodersLab/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />`{=html}
-:::
+<div align="center">
 
-------------------------------------------------------------------------
+**Open to building useful products and collaborating on practical AI projects.**
 
-## `> connect`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:111827&height=100&section=footer" width="100%" alt="" />
 
-::: {align="center"}
-`<a href="https://github.com/topCodersLab">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />`{=html}
-`</a>`{=html}
-
-```{=html}
-<!-- Add your real professional links below when ready. -->
-```
-```{=html}
-<!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-```
-```{=html}
-<!-- <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
-```
-`<br />`{=html}
-
-**Open to interesting ideas, practical AI projects, and engineering
-collaboration.**
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:111827,100:050816&height=110&section=footer" width="100%" alt="" />`{=html}
-:::
+</div>
