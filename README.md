@@ -4,8 +4,8 @@
 
 ### Building AI-powered apps, SaaS products & automations
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topCodersLab)
-![Profile views](https://komarev.com/ghpvc/?username=topCodersLab&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topCoder113)
+![Profile views](https://komarev.com/ghpvc/?username=topCoder113&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -60,13 +60,13 @@
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=topCodersLab&theme=github_dark" alt="GitHub contribution statistics" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=topCodersLab&theme=github_dark" alt="Most used languages by commit" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=topCoder113&theme=github_dark" alt="GitHub contribution statistics for topCoder113" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=topCoder113&theme=github_dark" alt="Most used languages by commit for topCoder113" />
 
 <br />
 
 <p align="center">
-  <img src="assets/profile-analysis.svg" width="720" alt="Public profile analysis: 3 repositories, one portfolio with published source, and web UI as the clearest demonstrated focus. The portfolio language mix is 50.4% CSS, 39.1% HTML, 10.2% TypeScript, and 0.3% JavaScript. The other two repositories have no published source or README to assess." />
+  <img src="assets/profile-analysis.svg" width="720" alt="GitHub analysis for topCoder113: 15 public repositories, Python-led code, and AI and web development projects. Language mix across public repositories: Python 82.4%, HTML 7.4%, TypeScript 4.7%, CSS 1.8%, and other languages 3.7%." />
 </p>
 
 </div>
