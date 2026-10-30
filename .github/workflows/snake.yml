@@ -1,6 +1,12 @@
 name: Generate contribution snake
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -19,6 +25,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate green contribution calendar
+        run: |
+          curl --fail --silent --show-error --location \
+            https://ghchart.rshah.org/39D353/topCodersLab \
+            --output dist/contribution-grid.svg
+          if ! grep -q 'fill:#EEEEEE' dist/contribution-grid.svg; then
+            echo "Expected inactive contribution tile color was not found." >&2
+            exit 1
+          fi
+          sed -i 's/fill:#EEEEEE/fill:#0e4429/g' dist/contribution-grid.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

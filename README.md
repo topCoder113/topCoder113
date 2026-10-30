@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:0891B2&height=210&section=header&text=James Carter&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20AI%20ENGINEER&descSize=16&descAlignY=60&descColor=BAE6FD" width="100%" alt="James Carter — Full-Stack AI Engineer" />
+<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/profile-header.png" width="100%" alt="Full-Stack AI Engineer" />
 
 ### Building AI-powered apps, SaaS products & automations
 
@@ -21,23 +21,19 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 
 <br />
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td align="center" bgcolor="#D97757" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="32" height="32" alt="AI integration — Anthropic" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#4285F4" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="32" height="32" alt="LLMs and generative AI — Google Gemini" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#0B6E4F" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="32" height="32" alt="RAG — LangChain" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#4F46E5" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/probot/FFFFFF" width="32" height="32" alt="AI agents — Probot" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#0F9D58" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/dialogflow/FFFFFF" width="32" height="32" alt="Chatbots — Dialogflow" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#EA4B71" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/n8n/FFFFFF" width="32" height="32" alt="Workflow automation — n8n" /></td>
-    <td width="7" style="width:7px;min-width:7px;padding:0;"></td>
-    <td align="center" bgcolor="#FF6C37" width="48" height="48" style="width:48px;height:48px;min-width:48px;padding:0;border-radius:12px;"><img src="https://cdn.simpleicons.org/postman/FFFFFF" width="32" height="32" alt="API integration — Postman" /></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=anthropic&logoColor=white&color=D97757" height="48" alt="AI integration — Anthropic" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=googlegemini&logoColor=white&color=4285F4" height="48" alt="LLMs and generative AI — Google Gemini" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=langchain&logoColor=white&color=0B6E4F" height="48" alt="RAG — LangChain" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=probot&logoColor=white&color=4F46E5" height="48" alt="AI agents — Probot" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=dialogflow&logoColor=white&color=0F9D58" height="48" alt="Chatbots — Dialogflow" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=n8n&logoColor=white&color=EA4B71" height="48" alt="Workflow automation — n8n" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%20?style=flat&logo=postman&logoColor=white&color=FF6C37" height="48" alt="API integration — Postman" />
 
 </div>
 
@@ -51,8 +47,10 @@ I build practical end-to-end products—from modern web interfaces and Python AP
 <br />
 
 <a href="https://github.com/topCodersLab">
-  <img src="https://ghchart.rshah.org/0891B2/topCodersLab" width="100%" alt="TopCodersLab's GitHub contribution calendar" />
+  <img src="https://raw.githubusercontent.com/topCoder113/topCoder113/output/contribution-grid.svg" width="100%" alt="TopCodersLab's GitHub contribution calendar with green tiles" />
 </a>
+
+<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake traversing TopCodersLab's GitHub contribution grid" />
 
 </div>
 
