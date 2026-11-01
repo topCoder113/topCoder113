@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1726"/>
+      <stop offset="0.55" stop-color="#15243A"/>
+      <stop offset="1" stop-color="#1B2C43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CC9E8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4CC9E8"/>
+      <stop offset="1" stop-color="#958AFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 0H1182A18 18 0 0 1 1200 18V180H0V18A18 18 0 0 1 18 0Z" fill="url(#background)"/>
+  <path d="M18 25C174 57 310 56 458 28C623 -4 770 5 904 37C1026 66 1111 54 1182 25" stroke="url(#accent)" stroke-width="2"/>
+  <text x="600" y="98" text-anchor="middle" fill="#A9BDCE" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">OPEN TO COLLABORATION</text>
+  <text x="600" y="132" text-anchor="middle" fill="#EAF1F7" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Building useful products and practical AI projects.</text>
+</svg>

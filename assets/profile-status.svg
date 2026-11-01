@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="198" viewBox="0 0 1200 330" fill="none">
+  <rect width="1200" height="330" rx="22" fill="#F6FAFD"/>
+  <rect x="1" y="1" width="1198" height="328" rx="21" stroke="#D8E6EF" stroke-width="2"/>
+
+  <rect x="26" y="25" width="4" height="30" rx="2" fill="#0891B2"/>
+  <text x="42" y="40" fill="#15334B" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">GitHub account snapshot</text>
+  <text x="42" y="57" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10">Current public profile and repository metrics</text>
+  <text x="1174" y="41" text-anchor="end" fill="#8298A9" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.5">CHECKED 01 NOV 2026</text>
+
+  <rect x="24" y="76" width="552" height="228" rx="16" fill="#FFFFFF" stroke="#DCE8EF"/>
+  <text x="44" y="103" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Profile at a glance</text>
+
+  <rect x="42" y="118" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="58" y="150" fill="#167B8D" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">15</text>
+  <text x="58" y="173" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">PUBLIC REPOSITORIES</text>
+
+  <rect x="216" y="118" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="232" y="150" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">0</text>
+  <text x="232" y="173" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">STARS</text>
+
+  <rect x="390" y="118" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="406" y="150" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">0</text>
+  <text x="406" y="173" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">FORKS</text>
+
+  <rect x="42" y="202" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="58" y="234" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">0</text>
+  <text x="58" y="257" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">FOLLOWERS</text>
+
+  <rect x="216" y="202" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="232" y="234" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">0</text>
+  <text x="232" y="257" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">FOLLOWING</text>
+
+  <rect x="390" y="202" width="160" height="72" rx="11" fill="#F3F8FB"/>
+  <text x="406" y="234" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">0</text>
+  <text x="406" y="257" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">PUBLIC GISTS</text>
+
+  <rect x="600" y="76" width="576" height="228" rx="16" fill="#FFFFFF" stroke="#DCE8EF"/>
+  <text x="622" y="103" fill="#1C3B52" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Pull request milestone</text>
+  <rect x="1088" y="86" width="64" height="26" rx="13" fill="#EAF5F8"/>
+  <text x="1120" y="103" text-anchor="middle" fill="#087E91" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">+10 GOAL</text>
+
+  <text x="622" y="153" fill="#167B68" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">0</text>
+  <text x="653" y="151" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="11">public pull requests</text>
+  <text x="1152" y="151" text-anchor="end" fill="#4565B2" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">0 / 10</text>
+
+  <rect x="622" y="166" width="530" height="10" rx="5" fill="#E7EEF4"/>
+  <rect x="622" y="166" width="5" height="10" rx="5" fill="#0891B2"/>
+  <text x="622" y="195" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10">Next milestone: 10 public pull requests</text>
+
+  <path d="M622 211H1152" stroke="#E6EDF2"/>
+  <circle cx="630" cy="238" r="4" fill="#0891B2"/>
+  <text x="644" y="236" fill="#8298A9" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="0.6">LATEST PUBLIC ACTIVITY</text>
+  <text x="644" y="256" fill="#345168" font-family="Segoe UI, Arial, sans-serif" font-size="11">Push to topCoder113/topCoder113</text>
+  <text x="1152" y="256" text-anchor="end" fill="#71899B" font-family="Segoe UI, Arial, sans-serif" font-size="10">30 Oct 2026</text>
+
+  <text x="24" y="320" fill="#8298A9" font-family="Segoe UI, Arial, sans-serif" font-size="9">Public GitHub profile, repository, and activity data. Pull requests are public PRs authored by this account.</text>
+</svg>

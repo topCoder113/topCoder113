@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#101A2D"/>
-      <stop offset="1" stop-color="#12253A"/>
+      <stop stop-color="#F4F9FC"/>
+      <stop offset="0.55" stop-color="#EAF4F8"/>
+      <stop offset="1" stop-color="#E3F1F6"/>
     </linearGradient>
     <linearGradient id="accent" x1="160" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+      <stop stop-color="#0891B2" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="180" rx="18" fill="url(#background)"/>
-  <path d="M1 17C174 54 310 56 458 28C623 -4 770 5 904 37C1026 66 1111 54 1199 25V179H1V17Z" fill="#16263B" fill-opacity="0.68"/>
-  <path d="M1 17C174 54 310 56 458 28C623 -4 770 5 904 37C1026 66 1111 54 1199 25" stroke="url(#accent)" stroke-width="2"/>
-  <text x="600" y="98" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">OPEN TO COLLABORATION</text>
-  <text x="600" y="132" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Building useful products and practical AI projects.</text>
+  <path d="M18 0H1182A18 18 0 0 1 1200 18V180H0V18A18 18 0 0 1 18 0Z" fill="url(#background)"/>
+  <path d="M18 25C174 57 310 56 458 28C623 -4 770 5 904 37C1026 66 1111 54 1182 25" stroke="url(#accent)" stroke-width="2"/>
+  <text x="600" y="98" text-anchor="middle" fill="#527184" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">OPEN TO COLLABORATION</text>
+  <text x="600" y="132" text-anchor="middle" fill="#12263A" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Building useful products and practical AI projects.</text>
 </svg>
