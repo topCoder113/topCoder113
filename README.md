@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/topCoder113/topCoder113/main/assets/profile-header.png" width="100%" alt="Full-Stack AI Engineer" />
+<img src="assets/profile-header.gif" width="100%" alt="TopCoder113 — Full-Stack AI Engineer building AI products, web applications, and automations" />
 
 ### Building AI-powered apps, SaaS products & automations
 
@@ -66,15 +66,11 @@
 <br />
 
 <p align="center">
-  <img src="assets/profile-analysis.svg" width="720" alt="GitHub analysis for topCoder113: 15 public repositories, Python-led code, and AI and web development projects. Language mix across public repositories: Python 82.4%, HTML 7.4%, TypeScript 4.7%, CSS 1.8%, and other languages 3.7%." />
+  <img src="assets/profile-analysis.svg" width="720" alt="GitHub analysis for topCoder113: language mix across 15 public repositories: Python 82.4%, HTML 7.4%, TypeScript 4.7%, CSS 1.8%, and other languages 3.7%." />
 </p>
 
 </div>
 
 <div align="center">
-
-**Open to building useful products and collaborating on practical AI projects.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:111827&height=100&section=footer" width="100%" alt="" />
-
+  <img src="assets/profile-footer.svg" width="100%" alt="Open to collaboration on useful products and practical AI projects." />
 </div>

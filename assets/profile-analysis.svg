@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 760 270" fill="none">
-  <rect width="760" height="270" rx="22" fill="#0D1117"/>
-  <rect x="1" y="1" width="758" height="268" rx="21" stroke="#30363D" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 760 232" fill="none">
+  <rect width="760" height="232" rx="22" fill="#0D1117"/>
+  <rect x="1" y="1" width="758" height="230" rx="21" stroke="#30363D" stroke-width="2"/>
 
   <rect x="24" y="18" width="38" height="38" rx="10" fill="#238636"/>
   <path d="M41 27L34 37L41 47M45 27L52 37L45 47" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -14,10 +14,6 @@
   <rect x="268" y="68" width="224" height="42" rx="11" fill="#161B22" stroke="#30363D"/>
   <text x="284" y="94" fill="#3FB950" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">82.4%</text>
   <text x="344" y="93" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">PYTHON</text>
-
-  <rect x="512" y="68" width="224" height="42" rx="11" fill="#161B22" stroke="#30363D"/>
-  <text x="528" y="94" fill="#D2A8FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">AI / WEB</text>
-  <text x="594" y="93" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">PROJECT THEMES</text>
 
   <text x="24" y="135" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Public repository language mix</text>
   <text x="736" y="135" text-anchor="end" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="10">GitHub language totals</text>
@@ -48,16 +44,8 @@
   <text x="675" y="173" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="11">Other</text>
   <text x="711" y="173" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="11">3.7%</text>
 
-  <text x="24" y="215" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Project themes</text>
-  <rect x="125" y="199" width="86" height="24" rx="12" fill="#1F2937"/>
-  <text x="168" y="215" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">MCP agents</text>
-  <rect x="219" y="199" width="78" height="24" rx="12" fill="#1F2937"/>
-  <text x="258" y="215" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">LLM tooling</text>
-  <rect x="305" y="199" width="102" height="24" rx="12" fill="#1F2937"/>
-  <text x="356" y="215" text-anchor="middle" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">Web applications</text>
-
-  <path d="M26 246V252C26 256 29 259 33 259H38M26 252C26 248 29 245 33 245H38" stroke="#3FB950" stroke-width="1.5" stroke-linecap="round"/>
-  <circle cx="40" cy="245" r="2.5" fill="#3FB950"/>
-  <circle cx="40" cy="259" r="2.5" fill="#3FB950"/>
-  <text x="50" y="254" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="10">Top language totals across 15 public repositories; remaining languages are grouped as Other.</text>
+  <path d="M26 216V222C26 226 29 229 33 229H38M26 222C26 218 29 215 33 215H38" stroke="#3FB950" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="40" cy="215" r="2.5" fill="#3FB950"/>
+  <circle cx="40" cy="229" r="2.5" fill="#3FB950"/>
+  <text x="50" y="224" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="10">Top language totals across 15 public repositories; remaining languages are grouped as Other.</text>
 </svg>
